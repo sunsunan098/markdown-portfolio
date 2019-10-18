@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_is this italic?_ 
+*it is*
+this is un-italic
+__bold wow for real__
+__*bold and italic*__
+:smile:
+:tree:
