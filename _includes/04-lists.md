@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* MY FAVOURITE THINGS
+  * Sleep
+  * Study
+  * Sports
+    * basketball
+      * NBA
